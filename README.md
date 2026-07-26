@@ -31,7 +31,7 @@ $ status:
 
 ---
 
-**Tech Stack**
+**Technologies & Tools**
 
 
 **Languages**
