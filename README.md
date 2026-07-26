@@ -7,7 +7,7 @@
 
 ```makefile
 $ whoami:
-> Mark Maichenko — Versatile Software Developer (Generalist)
+> Mark Maichenko — Fullstack / Backend Developer with Broad Technical Foundation
 
 $ location:
 > Munich, Germany DE
